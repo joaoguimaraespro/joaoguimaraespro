@@ -1,5 +1,6 @@
 ### Hi 👋, Im João Guimarães
 
+![image](github-header-image.png)
 <!--
 **joaoguimaraespro/joaoguimaraespro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... ds
 -->
+
+### Connect with me:
+
+
+### Languages and tools
+
+
 
 ## 📈 My GitHub Stats and Activity
 
