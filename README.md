@@ -19,12 +19,19 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
+<p >
+<a href="https://www.linkedin.com/in/joaoguimaraes2000/" target="blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/122754409/256609979-dbe4a8fc-2bdf-4b3d-b0d8-c4e783153805.png" alt="linkedin" height="50" width="50" />
+  
+</p>
+
 
 ### Languages and tools
 
 
 
 ## 📈 My GitHub Stats and Activity
+
+<br/>
 
 ### 💻 Profile Stats
 
