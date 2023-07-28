@@ -22,14 +22,15 @@ Here are some ideas to get you started:
 
 ## <picture><img src = "https://user-images.githubusercontent.com/122754409/256830722-2c143cb0-70c2-4529-a6b8-421ebf4bd271.png" width = 50px></picture> **Languages and Tools**
 ---
-
+<a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=java,c,cs,js,py,ts,nodejs,dart,html,css,mysql,mongodb,postgres,gradle,maven,spring,angular,flutter,dotnet,docker,git,github,gitlab,postman,
 idea,androidstudio,visualstudio,vscode&perline=10" />
+ </a>
 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
-  </a>
+ 
 </p>
 
 ## 📈 My GitHub Stats and Activity
