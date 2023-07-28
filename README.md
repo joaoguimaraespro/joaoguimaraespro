@@ -1,6 +1,8 @@
 ![header](https://user-images.githubusercontent.com/122754409/256884344-4de9b5c4-0bfb-4fd2-b580-673192fff834.png)
 
 
+Hi, I'm João Guimarães
+
 <!--
 **joaoguimaraespro/joaoguimaraespro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +20,7 @@ Here are some ideas to get you started:
 -->
 
 
+<br/>
 
 
 ## <picture><img src = "https://user-images.githubusercontent.com/122754409/256830722-2c143cb0-70c2-4529-a6b8-421ebf4bd271.png" width = 50px></picture> **Languages and Tools**
@@ -33,7 +36,7 @@ Here are some ideas to get you started:
 <br/>
 
 
-![stats](https://github-readme-stats.vercel.app/api/?username=joaoguimaraespro&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=C5D0D1&icon_color=F8D866)
+![stats](https://github-readme-stats.vercel.app/api/?username=joaoguimaraespro&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=C5D0D1&icon_color=F8D866&border_radius=10)
 
 
 <br/>
