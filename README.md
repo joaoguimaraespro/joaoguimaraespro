@@ -29,9 +29,11 @@ Here are some ideas to get you started:
 idea,androidstudio,visualstudio,vscode&perline=10" />
  </a>
 </p>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=java,c,cs,js,py,ts,nodejs,dart,html,css,mysql,mongodb,postgres,gradle,maven,spring,angular,flutter,dotnet,docker,git,github,gitlab,postman,
+idea,androidstudio,visualstudio,vscode&perline=14" />
  </a>
 </p>
 
