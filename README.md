@@ -17,17 +17,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... ds
 -->
 
-### Connect with me:
-
-<p >
-<a href="https://www.linkedin.com/in/joaoguimaraes2000/" target="blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/122754409/256609979-dbe4a8fc-2bdf-4b3d-b0d8-c4e783153805.png" alt="linkedin" height="50" width="50" />
-  
-</p>
 
 
-### Languages and tools
 
+## <picture><img src = "https://user-images.githubusercontent.com/122754409/256830722-2c143cb0-70c2-4529-a6b8-421ebf4bd271.png" width = 50px></picture> **Languages and Tools**
+---
 
+<img src="https://skillicons.dev/icons?i=java,c,cs,js,py,ts,nodejs,dart,html,css,mysql,mongodb,postgres,gradle,maven,spring,angular,flutter,dotnet,docker,git,github,gitlab,postman,
+idea,androidstudio,visualstudio,vscode&perline=10" />
 
 ## 📈 My GitHub Stats and Activity
 
@@ -44,6 +41,11 @@ Here are some ideas to get you started:
 
 
 
-### 📊 Contribution Stats
 
-<img alt="João Guimarães's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=joaoguimaraespro&bg_color=1F222E&color=FFFFFF&line=FFFFFF&point=A7D3D1&hide_border=true" />
+## Connect with me 🤝
+
+<p >
+<a href="https://www.linkedin.com/in/joaoguimaraes2000/" target="blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/122754409/256609979-dbe4a8fc-2bdf-4b3d-b0d8-c4e783153805.png" alt="linkedin" height="50" width="50" />
+<a href="https://github.com/joaoguimaraespro" target="blank"><img align="center" src="https://user-images.githubusercontent.com/122754409/256825847-1281f013-edd8-468e-b073-b856c9d940d7.png" alt="linkedin" height="50" width="50" />
+<a href="mailto:joaoguimaraes.pro@hotmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/122754409/256825345-33393330-313f-45c9-9e67-7428fc20de4d.png" alt="linkedin" height="50" width="50" />  
+</p>
