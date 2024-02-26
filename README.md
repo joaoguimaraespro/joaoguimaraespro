@@ -1,7 +1,11 @@
 ![header](https://user-images.githubusercontent.com/122754409/256884344-4de9b5c4-0bfb-4fd2-b580-673192fff834.png)
 
 
-Hi, I'm João Guimarães
+Hi, I'm João Guimarães and i am a software developer since 2022, enthusiastic and dedicated to facing new challenges and projects that prove my professional capabilities and abilities. I value teamwork for the sharing of knowledge and effective collaboration, which is essential for achieving the desired success. Autonomous and motivated in learning new knowledge, I'm always looking for opportunities to enhance and expand my technological skills. 
+
+Currently, I am a full-stack developer at Verticare Systems, focused on developing solutions for the healthcare sector. I work with agile methodology to implement new features and fix bugs effectively, using technologies such as .NET and Angular. 
+
+I'm constantly deepening my knowledge in .NET and microservices, while learning new technologies, including artificial intelligence and machine learning. I have a special inclination for backend, where I have a solid knowledge base and experience. This focus allows me to further dedicate myself to improving my skills in this specific area, constantly seeking opportunities to challenge myself and grow professionally.
 
 <!--
 **joaoguimaraespro/joaoguimaraespro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
