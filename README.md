@@ -10,16 +10,18 @@ Currently, I am a full-stack developer at Verticare Systems, focused on developi
 ### Currently learning 📚
 I'm constantly deepening my knowledge in .NET and microservices, while learning new technologies, including artificial intelligence and machine learning. I have a special inclination for backend, where I have a solid knowledge base and experience. This focus allows me to further dedicate myself to improving my skills in this specific area, constantly seeking opportunities to challenge myself and grow professionally.
 
-<br/>
-
-
 ## <picture><img src = "https://user-images.githubusercontent.com/122754409/256830722-2c143cb0-70c2-4529-a6b8-421ebf4bd271.png" width = 50px></picture> **Languages and Tools**
 
 
 <img src="https://skillicons.dev/icons?i=java,c,cs,js,py,ts,dart,html,css,mysql,mongodb,postgres,gradle,maven,spring,angular,flutter,dotnet,nodejs,docker,git,github,gitlab,postman,idea,androidstudio,visualstudio,vscode&perline=14" />
 
+## Connect with me 🤝
 
-<br/>
+<p >
+<a href="https://www.linkedin.com/in/joaoguimaraes2000/" target="blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/122754409/256609979-dbe4a8fc-2bdf-4b3d-b0d8-c4e783153805.png" alt="linkedin" height="50" width="50" />
+<a href="https://github.com/joaoguimaraespro" target="blank"><img align="center" src="https://user-images.githubusercontent.com/122754409/256825847-1281f013-edd8-468e-b073-b856c9d940d7.png" alt="linkedin" height="50" width="50" />
+<a href="mailto:joaoguimaraes.pro@hotmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/122754409/256825345-33393330-313f-45c9-9e67-7428fc20de4d.png" alt="linkedin" height="50" width="50" />  
+</p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats and Activity</b>
 
@@ -36,14 +38,3 @@ I'm constantly deepening my knowledge in .NET and microservices, while learning 
 
 
 ![streak stats](https://github-readme-streak-stats.herokuapp.com?user=joaoguimaraespro&theme=dracula&background=1F222E&hide_border=true&border_radius=10&date_format=j%2Fn%5B%2FY%5D&mode=weekly&ring=A7D3D1&sideNums=DDDDDD&currStreakNum=3EC4FF&fire=A7D3D1&sideLabels=A7D3D1&currStreakLabel=3EC4FF)
-
-
-
-
-## Connect with me 🤝
-
-<p >
-<a href="https://www.linkedin.com/in/joaoguimaraes2000/" target="blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/122754409/256609979-dbe4a8fc-2bdf-4b3d-b0d8-c4e783153805.png" alt="linkedin" height="50" width="50" />
-<a href="https://github.com/joaoguimaraespro" target="blank"><img align="center" src="https://user-images.githubusercontent.com/122754409/256825847-1281f013-edd8-468e-b073-b856c9d940d7.png" alt="linkedin" height="50" width="50" />
-<a href="mailto:joaoguimaraes.pro@hotmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/122754409/256825345-33393330-313f-45c9-9e67-7428fc20de4d.png" alt="linkedin" height="50" width="50" />  
-</p>
