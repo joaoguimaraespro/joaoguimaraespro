@@ -19,7 +19,6 @@ I'm constantly deepening my knowledge in .NET and microservices, while learning 
 
 <p >
 <a href="https://www.linkedin.com/in/joaoguimaraes2000/" target="blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/122754409/256609979-dbe4a8fc-2bdf-4b3d-b0d8-c4e783153805.png" alt="linkedin" height="50" width="50" />
-<a href="https://github.com/joaoguimaraespro" target="blank"><img align="center" src="https://user-images.githubusercontent.com/122754409/256825847-1281f013-edd8-468e-b073-b856c9d940d7.png" alt="linkedin" height="50" width="50" />
 <a href="mailto:joaoguimaraes.pro@hotmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/122754409/256825345-33393330-313f-45c9-9e67-7428fc20de4d.png" alt="linkedin" height="50" width="50" />  
 </p>
 
