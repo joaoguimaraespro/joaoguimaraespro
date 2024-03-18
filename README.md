@@ -26,14 +26,6 @@ I'm constantly deepening my knowledge in .NET and microservices, while learning 
 
 <br/>
 
-
 ![stats](https://github-readme-stats.vercel.app/api/?username=joaoguimaraespro&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=C5D0D1&icon_color=F8D866&border_radius=10)
-
-
-<br/>
-<!--
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguimaraespro&theme=react&layout=donut&hide_border=true&title_color=C5D0D1&border_radius=10&bg_color=1F222E&no-frame=true&langs_count=4"/>
--->
-
 
 ![streak stats](https://github-readme-streak-stats.herokuapp.com?user=joaoguimaraespro&theme=dracula&background=1F222E&hide_border=true&border_radius=10&date_format=j%2Fn%5B%2FY%5D&mode=weekly&ring=A7D3D1&sideNums=DDDDDD&currStreakNum=3EC4FF&fire=A7D3D1&sideLabels=A7D3D1&currStreakLabel=3EC4FF)
