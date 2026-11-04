@@ -1,8 +1,8 @@
-![header](https://user-images.githubusercontent.com/122754409/256884344-4de9b5c4-0bfb-4fd2-b580-673192fff834.png)
+![João Guimarães — Tech Lead · Full-Stack Engineer](assets/header.svg)
 
 ## Hi, I'm João 👋
 
-**Tech Lead · Senior Full-Stack Engineer · Healthtech** — based in Porto, Portugal.
+**Tech Lead · Full-Stack Engineer · Healthtech**
 
 I lead the engineering team at **Verticare Systems**, building a clinical automation platform used in Portuguese hospitals and integrated with their systems via HL7. I own the platform architecture, the release process and production stability.
 
