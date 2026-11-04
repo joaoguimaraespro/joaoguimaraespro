@@ -2,24 +2,25 @@
 
 ## Hi, I'm João 👋
 
-**Tech Lead · Full-Stack Engineer · Healthcare Interoperability** — based in Portugal.
+**Tech Lead · Senior Full-Stack Engineer · Healthtech** — based in Porto, Portugal.
 
 I lead the engineering team at **Verticare Systems**, building a clinical automation platform used in Portuguese hospitals and integrated with their systems via HL7. I own the platform architecture, the release process and production stability.
 
 - 🤖 Leading the team building an **AI clinical assistant** — clinicians consult the patient's record, support consultations and generate medical reports, with real-time speech-to-text.
 - 📐 Introduced **AI-assisted, spec-driven development** in the team: every feature starts from a written specification that drives implementation and review.
 - 🏥 Four years in healthcare software — HL7 interoperability, CDA and GDPR in production.
+- ☁️ Hybrid cloud / on-prem architecture on Azure (Azure Relay), with observability across both.
 
 ## 🛠️ Tech stack
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,py,fastapi,angular,ts,flutter,postgres,mongodb,redis,rabbitmq,azure,docker,kubernetes,go,git&perline=8" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,py,fastapi,flutter,postgres,redis,rabbitmq,azure,docker,kubernetes,go,git&perline=8" />
 
-- **Backend:** .NET / C#, EF Core, Python, FastAPI, REST APIs, SignalR, RabbitMQ, Redis, Clean Architecture
+- **Backend:** .NET / C#, EF Core, REST APIs, SignalR, RabbitMQ, Clean Architecture
 - **Frontend:** Angular, TypeScript, Nx, PrimeNG, Flutter
-- **Data:** PostgreSQL, SQL Server, MongoDB
-- **Cloud & DevOps:** Azure (Container Apps, Key Vault, Managed Identity), Azure DevOps, CI/CD, Docker
-- **Security & Identity:** Keycloak (OAuth 2.0 / OpenID Connect)
-- **AI:** Generative AI, LLM integration, speech-to-text, spec-driven development
+- **Data:** PostgreSQL, Redis
+- **Cloud & DevOps:** Azure, Azure DevOps, CI/CD, Docker, observability, hybrid cloud / on-prem (Azure Relay)
+- **Security & Identity:** Keycloak (OAuth 2.0 / OpenID Connect), Azure Key Vault, Managed Identity
+- **AI Integration:** LLM integration, Python (FastAPI, LangChain), speech-to-text, AI-assisted & spec-driven development
 
 ## 📌 Featured project
 
