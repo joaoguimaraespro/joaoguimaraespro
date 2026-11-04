@@ -1,31 +1,35 @@
 ![header](https://user-images.githubusercontent.com/122754409/256884344-4de9b5c4-0bfb-4fd2-b580-673192fff834.png)
 
-## 👨‍💻 About me
+## Hi, I'm João 👋
 
-Hi, I'm João Guimarães 👋, a software developer since 2022. I'm enthusiastic and dedicated to facing new challenges and projects that prove my professional capabilities and abilities. I value teamwork for the sharing of knowledge and effective collaboration, which is essential for achieving the desired success. Autonomous and motivated in learning new knowledge, I'm always looking for opportunities to enhance and expand my technological skills. 
+**Tech Lead · Full-Stack Engineer · Healthcare Interoperability** — based in Portugal.
 
-### Current Role 💻
-Currently, I am a full-stack developer at Verticare Systems, focused on developing solutions for the healthcare sector. I work with agile methodology to implement new features and fix bugs effectively, using technologies such as .NET and Angular. 
+I lead the engineering team at **Verticare Systems**, building a clinical automation platform used in Portuguese hospitals and integrated with their systems via HL7. I own the platform architecture, the release process and production stability.
 
-### Currently learning 📚
-I'm constantly deepening my knowledge in .NET and microservices, while learning new technologies, including artificial intelligence and machine learning. I have a special inclination for backend, where I have a solid knowledge base and experience. This focus allows me to further dedicate myself to improving my skills in this specific area, constantly seeking opportunities to challenge myself and grow professionally.
+- 🤖 Leading the team building an **AI clinical assistant** — clinicians consult the patient's record, support consultations and generate medical reports, with real-time speech-to-text.
+- 📐 Introduced **AI-assisted, spec-driven development** in the team: every feature starts from a written specification that drives implementation and review.
+- 🏥 Four years in healthcare software — HL7 interoperability, CDA and GDPR in production.
 
-## <picture><img src = "https://user-images.githubusercontent.com/122754409/256830722-2c143cb0-70c2-4529-a6b8-421ebf4bd271.png" width = 50px></picture> **Languages and Tools**
+## 🛠️ Tech stack
 
+<img src="https://skillicons.dev/icons?i=cs,dotnet,py,fastapi,angular,ts,flutter,postgres,mongodb,redis,rabbitmq,azure,docker,kubernetes,go,git&perline=8" />
 
-<img src="https://skillicons.dev/icons?i=java,c,cs,js,py,ts,dart,html,css,mysql,mongodb,postgres,gradle,maven,spring,angular,flutter,dotnet,nodejs,docker,git,github,gitlab,postman,idea,androidstudio,visualstudio,vscode&perline=14" />
+- **Backend:** .NET / C#, EF Core, Python, FastAPI, REST APIs, SignalR, RabbitMQ, Redis, Clean Architecture
+- **Frontend:** Angular, TypeScript, Nx, PrimeNG, Flutter
+- **Data:** PostgreSQL, SQL Server, MongoDB
+- **Cloud & DevOps:** Azure (Container Apps, Key Vault, Managed Identity), Azure DevOps, CI/CD, Docker
+- **Security & Identity:** Keycloak (OAuth 2.0 / OpenID Connect)
+- **AI:** Generative AI, LLM integration, speech-to-text, spec-driven development
 
-## Connect with me 🤝
+## 📌 Featured project
 
-<p >
-<a href="https://www.linkedin.com/in/joaoguimaraes2000/" target="blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/122754409/256609979-dbe4a8fc-2bdf-4b3d-b0d8-c4e783153805.png" alt="linkedin" height="50" width="50" />
-<a href="mailto:joaoguimaraes.pro@hotmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/122754409/256825345-33393330-313f-45c9-9e67-7428fc20de4d.png" alt="linkedin" height="50" width="50" />  
+**[Personal Finance](https://github.com/joaoguimaraespro/personal-finance)** — a self-hosted finance and investment manager that replaced my Excel workbook. Transaction ledger, versioned budgets and reports, read-only Trading 212 / Interactive Brokers sync, and a permission-gated MCP server for AI assistants.
+`.NET 10` · `Angular 22` · `PostgreSQL 17` · `Docker` · `Testcontainers` · `Playwright`
+
+## 🤝 Connect
+
+<p>
+<a href="https://www.linkedin.com/in/joaoguimaraes00/" target="_blank"><img align="center" src="https://github-production-user-asset-6210df.s3.amazonaws.com/122754409/256609979-dbe4a8fc-2bdf-4b3d-b0d8-c4e783153805.png" alt="LinkedIn" height="40" width="40" /></a>
+&nbsp;
+<a href="mailto:joaoguimaraes.pro@hotmail.com"><img align="center" src="https://user-images.githubusercontent.com/122754409/256825345-33393330-313f-45c9-9e67-7428fc20de4d.png" alt="Email" height="40" width="40" /></a>
 </p>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats and Activity</b>
-
-<br/>
-
-![stats](https://github-readme-stats.vercel.app/api/?username=joaoguimaraespro&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=C5D0D1&icon_color=F8D866&border_radius=10)
-
-![streak stats](https://github-readme-streak-stats.herokuapp.com?user=joaoguimaraespro&theme=dracula&background=1F222E&hide_border=true&border_radius=10&date_format=j%2Fn%5B%2FY%5D&mode=weekly&ring=A7D3D1&sideNums=DDDDDD&currStreakNum=3EC4FF&fire=A7D3D1&sideLabels=A7D3D1&currStreakLabel=3EC4FF)
