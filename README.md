@@ -13,7 +13,13 @@ I lead the engineering team at **Verticare Systems**, building a clinical automa
 
 ## 🛠️ Tech stack
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,py,fastapi,flutter,postgres,redis,rabbitmq,azure,docker,kubernetes,go,git&perline=8" />
+**Languages & frameworks**
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,py,fastapi,flutter,dart&perline=11" />
+
+**Data, cloud & tools**
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,rabbitmq,azure,docker,kubernetes,go,git,github,vscode,visualstudio,postman&perline=12" />
 
 - **Backend:** .NET / C#, EF Core, REST APIs, SignalR, RabbitMQ, Clean Architecture
 - **Frontend:** Angular, TypeScript, Nx, PrimeNG, Flutter
@@ -26,6 +32,17 @@ I lead the engineering team at **Verticare Systems**, building a clinical automa
 
 **[Personal Finance](https://github.com/joaoguimaraespro/personal-finance)** — a self-hosted finance and investment manager that replaced my Excel workbook. Transaction ledger, versioned budgets and reports, read-only Trading 212 / Interactive Brokers sync, and a permission-gated MCP server for AI assistants.
 `.NET 10` · `Angular 22` · `PostgreSQL 17` · `Docker` · `Testcontainers` · `Playwright`
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=joaoguimaraespro&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=3b82f6&text_color=c9d1d9&border_radius=12" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguimaraespro&layout=compact&hide_border=true&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9&border_radius=12" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=joaoguimaraespro&hide_border=true&background=0d1117&ring=2dd4bf&fire=3b82f6&currStreakLabel=2dd4bf&sideLabels=c9d1d9&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e&border_radius=12" alt="GitHub streak" />
+</p>
 
 ## 🤝 Connect
 
