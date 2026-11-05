@@ -4,7 +4,7 @@
 
 **Tech Lead · Full-Stack Engineer · Healthtech**
 
-I lead the engineering team at **Verticare Systems**, building a clinical automation platform used in Portuguese hospitals and integrated with their systems via HL7. I own the platform architecture, the release process and production stability.
+I lead the engineering team at **VertiCare Systems**, building a clinical automation platform used in Portuguese hospitals and integrated with their systems via HL7. I own the platform architecture, the release process and production stability.
 
 - 🤖 Leading the team building an **AI clinical assistant** — clinicians consult the patient's record, support consultations and generate medical reports, with real-time speech-to-text.
 - 📐 Introduced **AI-assisted, spec-driven development** in the team: every feature starts from a written specification that drives implementation and review.
