@@ -4,12 +4,13 @@
 
 **Tech Lead · Full-Stack Engineer · Healthtech**
 
-I lead the engineering team at **VertiCare Systems**, building a clinical automation platform used in Portuguese hospitals and integrated with their systems via HL7. I own the platform architecture, the release process and production stability.
+I lead the engineering team at **VertiCare Systems**, building clinical software and AI tools used daily in hospitals. I own the platform architecture, delivery and production reliability.
 
-- 🤖 Leading the team building an **AI clinical assistant** — clinicians consult the patient's record, support consultations and generate medical reports, with real-time speech-to-text.
-- 📐 Introduced **AI-assisted, spec-driven development** in the team: every feature starts from a written specification that drives implementation and review.
-- 🏥 Four years in healthcare software — HL7 interoperability, CDA and GDPR in production.
-- ☁️ Hybrid cloud / on-prem architecture on Azure (Azure Relay), with observability across both.
+- 🧩 **Full-stack** in .NET and Angular, from architecture to production: microservices, messaging, real-time UIs.
+- 🤖 Leading the team behind an **AI clinical assistant**: clinicians consult the patient's record, support consultations, generate medical reports with real-time speech-to-text.
+- 📐 Introduced **AI-assisted, spec-driven development**: every feature starts from a written specification that guides implementation with AI coding agents.
+- ☁️ Hybrid cloud / on-prem on **Azure** (Azure Relay), with observability across both.
+- 🔭 Side project: [**Personal Finance**](https://github.com/joaoguimaraespro/personal-finance), a self-hosted finance app in .NET 10 and Angular.
 
 ## 🛠️ Tech stack
 
